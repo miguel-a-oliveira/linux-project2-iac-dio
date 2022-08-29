@@ -13,7 +13,7 @@ apt-get install unzip -y
 cd /tmp
 
 # download the web app on /tmp directory
-wget
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 
 # unzip the web app
 unzip main.zip
