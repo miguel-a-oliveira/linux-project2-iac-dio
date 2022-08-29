@@ -4,6 +4,6 @@
 * Restaurar o snapshot criado anteriormente no VirtualBox;
 * Actualizar o servidor;
 * Instalar o unzip;
-* Baixar a aplicação disponível no endereço  no directório <b>/tmp</b>;
+* Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no directório <b>/tmp</b>;
 * Copiar os arquivos da aplicação no directório padrão do apache;
 * Fazer o upload do arquivo script para um repositório no GitHub.
